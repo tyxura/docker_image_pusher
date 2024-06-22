@@ -1,3 +1,4 @@
 #consul:1.15.4
-kong:3.7.1
-kong/kong-gateway:3.7.1.0-rhel
+#kong:3.7.1
+#kong/kong-gateway:3.7.1.0-rhel
+python:3.11
