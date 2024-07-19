@@ -2,4 +2,6 @@
 #kong:3.7.1
 #kong/kong-gateway:3.7.1.0-rhel
 #python:3.11
-nginx:stable-alpine-slim
+#nginx:stable-alpine-slim
+prometheus:2.53.1
+grafana:10.0.0
