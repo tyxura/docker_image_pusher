@@ -6,5 +6,5 @@
 #bitnami/prometheus:2.53.1
 #grafana/grafana:10.0.0
 #neo4j:5.24.1-community-bullseye
-ghcr.io/open-webui/open-webui:main
-
+#ghcr.io/open-webui/open-webui:main
+keking/kkfileview:4.1.0
