@@ -7,4 +7,4 @@
 #grafana/grafana:10.0.0
 #neo4j:5.24.1-community-bullseye
 #ghcr.io/open-webui/open-webui:main
-keking/kkfileview:4.1.0
+keking/kkfileview:4.3.0
