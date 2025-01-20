@@ -9,4 +9,5 @@
 #ghcr.io/open-webui/open-webui:mai
 #python:3.10.8
 #python:3.11.11
-keking/kkfileview-jdk:latest
+#keking/kkfileview-jdk:latest
+keking/kkfileview-base:4.4.0
