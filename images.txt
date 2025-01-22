@@ -10,4 +10,5 @@
 #python:3.10.8
 #python:3.11.11
 #keking/kkfileview-jdk:latest
-ubuntu:24.04
+#ubuntu:24.04
+nginx:1.25.2
