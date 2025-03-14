@@ -12,4 +12,5 @@
 #keking/kkfileview-jdk:latest
 #ubuntu:24.04
 #nginx:1.25.2
-python:3.11.9
+#python:3.11.9
+bitnami/kafka:3.9.0
