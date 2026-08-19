@@ -13,4 +13,5 @@
 #ubuntu:24.04
 #nginx:1.25.2
 #python:3.11.9
-apache/kafka:4.3.1
+#apache/kafka:4.3.1
+postgres:14.24-alpine3.23
